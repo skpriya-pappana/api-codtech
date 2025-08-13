@@ -19,6 +19,4 @@ The dashboard includes:
 - Supports **any city** (just change the `CITY` variable).
 - Uses **metric units** for readability.
 
----
 
-## 📂 Project Structure
